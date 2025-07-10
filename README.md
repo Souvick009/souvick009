@@ -28,18 +28,8 @@
 
 ### 🚀 Current Goals
 
-- ✅ Complete the project RentifyX (peer-to-peer tool rental app)
 - 🌱 Master Jetpack Compose & modern Android development
-- ⚙️ Optimize real-time app flows using Firebase efficiently
 - 💼 Kickstart my Android development career with solid projects
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souvick-sen-040b92259/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvicksen09@gmail.com)
-
 
 ---
 
